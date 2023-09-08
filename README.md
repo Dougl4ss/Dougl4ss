@@ -1,4 +1,4 @@
-<h2>Hi, i'am Douglas !!</h2>
+<h2 align="center">Hi, i'am Douglas !!</h2>
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Experience in Windows and Linux environments, Hardware Maintenance, installation and configuration of Operating Systems, knowledge of Programming Logic and I am currently studying the Kotlin language.</p>&nbsp;
 
